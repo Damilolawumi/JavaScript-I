@@ -5,7 +5,7 @@
 // };
 // myFunction();
 
-// let anotherFunction = function (param) {
+// let anotherFunction = functlion (param) {
 //   return param;
 // };
 // anotherFunction("Example");
